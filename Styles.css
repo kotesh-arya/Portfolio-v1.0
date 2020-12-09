@@ -66,8 +66,10 @@ hr {
     font-weight: bold;
 }
 
+
 .navigation .nav-pills {
     text-align: right;
+    padding: 1rem;
 }
 
 .navigation .link {
