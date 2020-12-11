@@ -50,6 +50,7 @@ a.link:hover{
   box-shadow: 1px 1px 4px black;
 }
 
+
 .link-primary {
     background-color: var(--primary-color);
     border-radius: 0.5rem;
