@@ -112,7 +112,7 @@ a.link:hover{
 .hero .hero-img {
     max-width: 330px;
     display: block;
-    margin: auto;
+    margin: 6px  auto;
 }
 
 .hero .hero-heading {
