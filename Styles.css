@@ -1,6 +1,7 @@
+/*default fonts forr all pages*/
 @import url('https://fonts.googleapis.com/css2?family=Arvo:wght@400;700&display=swap');
-
-:root {
+/*fonts for blog one */
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Open+Sans+Condensed:wght@700&family=Russo+One&display=swap');:root {
     --primary-color: #DC6508;
     --off-white: #F3F4F6;
     --dark-grey: #6B7280;
@@ -188,6 +189,18 @@ a.link:hover{
 .footer .footer-header {
     font-weight: bold;
     font-size: large;
+}
+/*styles for blog one*/
+.First-blog-section{
+  text-align: center;
+   font-weight: 100;
+   margin-left: auto;
+   margin-right: auto;
+  max-width: 42rem;
+  padding:  0rem rem;
+}
+.Git-image{
+   width: 32rem;
 }
 
 

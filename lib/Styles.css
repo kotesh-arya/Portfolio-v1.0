@@ -123,3 +123,7 @@ hr {
 }.footer ul{
     padding-inline-start: 0px;
 }
+/* Styles for blog one*/
+.hero{
+    text-align: center;
+}
