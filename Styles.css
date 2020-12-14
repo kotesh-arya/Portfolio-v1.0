@@ -31,31 +31,31 @@ hr {
  
 }
 .project-one{
-    --animate-duration: 2s;
+    --animate-duration: 1s;
 }
 .project-two{
-    --animate-duration: 3s;
+    --animate-duration: 1.5s;
 }
 .project-three{
-    --animate-duration: 4s;
+    --animate-duration: 2s;
 }
 .project-four{
-    --animate-duration: 5s;
+    --animate-duration: 2.5s;
 }
 .project-five{
-    --animate-duration: 6s;
+    --animate-duration: 3s;
 }
 .project-six{
-    --animate-duration: 7s;
+    --animate-duration: 3.5s;
 }
 .project-seven{
-    --animate-duration: 8s;
+    --animate-duration: 4s;
 }
 .blog-footer{
     --animate-duration: 3s;
 }
 .project-footer{
-    --animate-duration: 4s;
+    --animate-duration: 3s;
 }
 .container-center:hover {
     box-shadow: 1px 5px 15px black;
@@ -204,5 +204,3 @@ text-align: center;
     display: block;
     margin: 6px  auto;
 }
-
-
