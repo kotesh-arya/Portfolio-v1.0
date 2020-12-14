@@ -136,7 +136,7 @@ a.link:hover{
 .hero {
     padding: 2rem;
     padding: 1px;
-
+text-align: center;
 }
 
 .hero .hero-img {
@@ -200,7 +200,9 @@ a.link:hover{
   padding:  0rem rem;
 }
 .Git-image{
-   width: 32rem;
+    max-width: 330px;
+    display: block;
+    margin: 6px  auto;
 }
 
 
